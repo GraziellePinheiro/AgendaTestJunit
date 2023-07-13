@@ -1,0 +1,41 @@
+Requisitos Funcionais:
+
+Adicionar um contato à agenda, informando nome e número de telefone.
+Buscar um contato na agenda pelo nome, retornando o contato correspondente.
+Remover um contato da agenda.
+Obter a lista completa de contatos na agenda.
+----------------------------------------------------------------------------------
+Requisitos Não Funcionais:
+
+A implementação deve ser em Java.
+Os contatos devem ser armazenados em uma estrutura de dados adequada.
+A busca por contatos deve ser eficiente.
+A implementação deve seguir boas práticas de codificação, como nomenclatura significativa, encapsulamento adequado e modularidade.
+A implementação deve ser testada de forma abrangente para garantir seu funcionamento correto.
+Especificação do Projeto - Agenda de Contatos:
+O objetivo do projeto é desenvolver um sistema de agenda de contatos que permita adicionar, buscar e remover contatos. A agenda deve ser capaz de armazenar contatos com seus respectivos nomes e números de telefone.
+
+---------------------------------------------------------------------------------
+Requisito Funcional 1: Adicionar um contato à agenda
+O sistema deve permitir adicionar um novo contato à agenda. O usuário deve fornecer o nome e o número de telefone do contato a ser adicionado.
+
+Requisito Funcional 2: Buscar um contato na agenda pelo nome
+O sistema deve permitir buscar um contato na agenda pelo nome. O usuário deve informar o nome do contato a ser buscado, e o sistema deve retornar o contato correspondente, caso exista.
+
+Requisito Funcional 3: Remover um contato da agenda
+O sistema deve permitir remover um contato da agenda. O usuário deve selecionar o contato a ser removido, e o sistema deve excluí-lo da lista de contatos.
+
+Requisito Funcional 4: Obter a lista completa de contatos na agenda
+O sistema deve fornecer a funcionalidade de obter a lista completa de contatos na agenda. Isso permitirá ao usuário visualizar todos os contatos registrados.
+
+Requisito Não Funcional 1: Implementação em Java
+O sistema deve ser implementado na linguagem de programação Java.
+
+Requisito Não Funcional 2: Eficiência na busca por contatos
+A busca por contatos na agenda deve ser eficiente, proporcionando uma resposta rápida ao usuário, mesmo com uma grande quantidade de contatos.
+
+Requisito Não Funcional 3: Boas práticas de codificação
+A implementação do sistema deve seguir boas práticas de codificação, como nomenclatura significativa, encapsulamento adequado e modularidade.
+
+Requisito Não Funcional 4: Testes abrangentes
+A implementação do sistema deve ser testada de forma abrangente, incluindo testes unitários, para garantir que todas as funcionalidades estejam funcionando corretamente.
